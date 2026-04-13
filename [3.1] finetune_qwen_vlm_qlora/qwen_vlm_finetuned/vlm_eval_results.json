@@ -1,0 +1,16 @@
+{
+  "method": "QLoRA",
+  "rouge": {
+    "rouge1": 0.0061,
+    "rouge2": 0.0,
+    "rougeL": 0.0061
+  },
+  "bleu": 0.0003,
+  "bert_score": 0.6808,
+  "format_compliance": 0.0,
+  "trainable_params": 9232384,
+  "error_count": 0,
+  "eval_samples": 50,
+  "training_time_min": 702.3,
+  "final_loss": 1.0161
+}
