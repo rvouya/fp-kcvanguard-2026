@@ -11,21 +11,7 @@ This documentation addresses the AI blackbox by turning confusing visual signals
 
 ## Workflow
 
-![Workflow](./[0]%20resources/workflow.png)
-
-## Kaggle Environment Configuration
-
-**Dataset source:**
-- https://www.kaggle.com/datasets/henryalifian/vlm-dataset
-
-Typical Kaggle paths used in the notebooks:
-- /kaggle/input/datasets/henryalifian/vlm-dataset/vlm_dataset_v2.jsonl
-- /kaggle/input/datasets/henryalifian/vlm-dataset/vlm_dataset/panels
-- /kaggle/working/
-
-Configuration convention:
-- Set IS_KAGGLE = True or ENV = "kaggle" in each notebook config cell.
-- Keep all model, adapter, and dataset paths centralized in one configuration block.
+![Workflow](./resources/workflow.png)
 
 ## Pipeline Files
 
