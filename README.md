@@ -52,3 +52,11 @@ Configuration convention:
 6. `vlm-inference-comparison.ipynb`
    
    Compares Base vs QLoRA vs QDoRA outputs and reports ROUGE, BLEU, and BERTScore.
+
+## References
+
+- Google (2024) *Gemini API Documentation*
+- Taori et al. (2023) *"Stanford Alpaca: An Instruction-following LLaMA model"* — Instruction-tuning data generation methodology
+- Wang et al. (2023) *"Self-Instruct: Aligning LM with Self-Generated Instructions"* ([arXiv:2212.10560](https://arxiv.org/abs/2212.10560))
+- Dettmers et al. (2023) "QLoRA: Efficient Finetuning of Quantized LLMs" (arXiv:2305.14314)
+- Hu et al. (2022) "LoRA: Low-Rank Adaptation of Large Language Models" (arXiv:2106.09685)
